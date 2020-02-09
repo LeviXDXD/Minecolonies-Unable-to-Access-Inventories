@@ -1,0 +1,237 @@
+[09Feb2020 18:11:06.963] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 28.2.0, --fml.mcpVersion, 20190829.143755, --fml.mcVersion, 1.14.4, --fml.forgeGroup, net.minecraftforge, nogui]
+[09Feb2020 18:11:06.968] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 4.1.0+62+5bfa59b starting: java version 1.8.0_241 by Oracle Corporation
+[09Feb2020 18:11:08.660] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[09Feb2020 18:11:11.709] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[09Feb2020 18:11:28.802] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Feb2020 18:11:28.879] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09Feb2020 18:11:28.948] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09Feb2020 18:11:28.995] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Feb2020 18:11:29.091] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09Feb2020 18:11:29.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.14.4
+[09Feb2020 18:11:30.918] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 28.2.0, for MC 1.14.4 with MCP 20190829.143755
+[09Feb2020 18:11:30.941] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v28.2.0 Initialized
+[09Feb2020 18:11:30.944] [modloading-worker-2/WARN] [structurize/]: Structurize starting up
+[09Feb2020 18:11:33.747] [Server thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity minecolonies:citizen
+[09Feb2020 18:11:33.815] [Server thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity minecolonies:fishhook
+[09Feb2020 18:11:33.868] [Server thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity minecolonies:mercenary
+[09Feb2020 18:11:33.916] [Server thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity minecolonies:barbarian
+[09Feb2020 18:11:34.046] [Server thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity minecolonies:archerbarbarian
+[09Feb2020 18:11:34.066] [Server thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity minecolonies:chiefbarbarian
+[09Feb2020 18:11:34.114] [Server thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity minecolonies:pirate
+[09Feb2020 18:11:34.300] [Server thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity minecolonies:archerpirate
+[09Feb2020 18:11:34.362] [Server thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity minecolonies:chiefpirate
+[09Feb2020 18:11:34.489] [Server thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity minecolonies:sittingentity
+[09Feb2020 18:11:34.836] [Server thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `florist`, expected `minecolonies`. This could be a intended override, but in most cases indicates a broken mod.
+[09Feb2020 18:11:35.009] [Server thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `enchanter`, expected `minecolonies`. This could be a intended override, but in most cases indicates a broken mod.
+[09Feb2020 18:11:36.891] [modloading-worker-2/WARN] [structurize/]: FMLCommonSetupEvent
+[09Feb2020 18:11:37.394] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[09Feb2020 18:11:38.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[09Feb2020 18:11:38.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[09Feb2020 18:11:38.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Generating keypair
+[09Feb2020 18:11:38.888] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 28.2.0 Target: null
+[09Feb2020 18:11:39.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[09Feb2020 18:11:39.269] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using default channel type
+[09Feb2020 18:11:41.673] [modloading-worker-1/WARN] [minecolonies/]: FMLLoadCompleteEvent
+[09Feb2020 18:11:41.671] [modloading-worker-2/WARN] [structurize/]: FMLLoadCompleteEvent
+[09Feb2020 18:11:41.785] [modloading-worker-1/WARN] [minecolonies.requestsystem/]: Updated logging config. RS Debug logging enabled: false
+[09Feb2020 18:11:41.838] [modloading-worker-1/WARN] [minecolonies/]: Register mappings
+[09Feb2020 18:11:42.831] [Thread-1/FATAL] [net.minecraftforge.common.ForgeConfig/CORE]: Forge config just got changed on the file system!
+[09Feb2020 18:11:42.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[09Feb2020 18:11:43.359] [Server thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.14.4-28.2.0-universal.jar, Ore-Excavation-Mod-1.14.4.jar, minecolonies-0.10.680-RELEASE-universal (1) (1).jar, structurize-0.10.226-ALPHA (1).jar
+[09Feb2020 18:11:44.248] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 6 recipes
+[09Feb2020 18:11:45.269] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 859 advancements
+[09Feb2020 18:11:45.730] [Server thread/ERROR] [minecolonies/]: WorkOrderBuildDecoration.read: Could not find schematics/stone/builder1
+[09Feb2020 18:11:45.737] [Server thread/ERROR] [minecolonies/]: WorkOrderBuildDecoration.read: Could not find schematics/nordic/lumberjack1
+[09Feb2020 18:11:45.798] [Server thread/WARN] [structurize/]: FMLServerStartedEvent
+[09Feb2020 18:11:45.840] [Server thread/WARN] [structurize/]: file:///C:/Users/Xavier/Desktop/14.4%20Modded/mods/minecolonies-0.10.680-RELEASE-universal%20(1)%20(1).jar
+[09Feb2020 18:11:45.874] [Server thread/WARN] [structurize/]: C:/Users/Xavier/Desktop/14.4%20Modded/mods/minecolonies-0.10.680-RELEASE-universal%20(1)%20(1).jar
+[09Feb2020 18:11:45.897] [Server thread/WARN] [structurize/]: /assets/minecolonies
+[09Feb2020 18:11:45.904] [Server thread/INFO] [structurize/]: Load huts or decorations from jar
+[09Feb2020 18:11:55.386] [Netty Server IO #1/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[09Feb2020 18:11:56.187] [Server thread/WARN] [structurize/]: Structure failed Loading because of invalid resource name (probably capitalization issue)
+net.minecraft.util.ResourceLocationException: Non [a-z0-9/._-] character in path of location: minecolonies:blockhutfortresscornerBlank
+	at net.minecraft.util.ResourceLocation.<init>(SourceFile:38) ~[?:?]
+	at net.minecraft.util.ResourceLocation.<init>(SourceFile:47) ~[?:?]
+	at com.ldtteam.structurize.management.StructureName.init(StructureName.java:104) ~[?:0.10.226-ALPHA]
+	at com.ldtteam.structurize.management.StructureName.<init>(StructureName.java:36) ~[?:0.10.226-ALPHA]
+	at com.ldtteam.structurize.management.Structures.loadSchematicsForPrefix(Structures.java:322) [?:0.10.226-ALPHA]
+	at com.ldtteam.structurize.management.Structures.loadStyleMapsJar(Structures.java:228) [?:0.10.226-ALPHA]
+	at com.ldtteam.structurize.management.Structures.loadStyleMaps(Structures.java:135) [?:0.10.226-ALPHA]
+	at com.ldtteam.structurize.management.Structures.init(Structures.java:122) [?:0.10.226-ALPHA]
+	at com.ldtteam.structurize.event.EventSubscriber.onServerStarting(EventSubscriber.java:60) [?:0.10.226-ALPHA]
+	at net.minecraftforge.eventbus.ASMEventHandler_7_EventSubscriber_onServerStarting_Load.invoke(.dynamic) [?:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:80) [eventbus-1.0.0-service.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:258) [eventbus-1.0.0-service.jar:?]
+	at net.minecraft.server.MinecraftServer.func_213194_a(MinecraftServer.java:400) [?:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:352) [?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:210) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:598) [?:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_241]
+[09Feb2020 18:11:56.199] [Server thread/WARN] [structurize/]: schematics/fortress/fortresscornerBlank
+[09Feb2020 18:11:56.620] [Server thread/WARN] [structurize/]: file:///C:/Users/Xavier/Desktop/14.4%20Modded/mods/structurize-0.10.226-ALPHA%20(1).jar
+[09Feb2020 18:11:56.621] [Server thread/WARN] [structurize/]: C:/Users/Xavier/Desktop/14.4%20Modded/mods/structurize-0.10.226-ALPHA%20(1).jar
+[09Feb2020 18:11:56.636] [Server thread/WARN] [structurize/]: /assets/structurize
+[09Feb2020 18:11:56.641] [Server thread/INFO] [structurize/]: Load huts or decorations from jar
+[09Feb2020 18:11:56.652] [Server thread/INFO] [structurize/]: Load additional huts or decorations from .\structurize/schematics
+[09Feb2020 18:11:56.653] [Server thread/INFO] [structurize/]: Load cached schematic from .\structurize/cache
+[09Feb2020 18:11:56.653] [Server thread/INFO] [structurize/]: Load cached schematic from .\structurize/cache
+[09Feb2020 18:11:56.654] [Server thread/WARN] [minecolonies/]: World load
+[09Feb2020 18:11:56.658] [Server thread/INFO] [minecolonies/]: Server UUID 2357b9ad-fc49-41df-b62d-148a9d4d423a
+[09Feb2020 18:11:56.661] [Server thread/WARN] [minecolonies/]: World load
+[09Feb2020 18:11:56.962] [Server thread/WARN] [minecolonies/]: World load
+[09Feb2020 18:11:56.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[09Feb2020 18:11:58.267] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[09Feb2020 18:11:58.275] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[09Feb2020 18:11:58.276] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[09Feb2020 18:11:58.505] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[09Feb2020 18:11:58.908] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 1937 ms
+[09Feb2020 18:11:58.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (16.267s)! For help, type "help"
+[09Feb2020 18:11:58.923] [Server thread/WARN] [structurize/]: FMLServerStartingEvent
+[09Feb2020 18:11:59.136] [Server thread/INFO] [minecolonies/]: Finished discovering saplings
+[09Feb2020 18:11:59.176] [Server thread/INFO] [minecolonies/]: Finished discovering Ores
+[09Feb2020 18:11:59.176] [Server thread/INFO] [minecolonies/]: Finished discovering oreBlocks
+[09Feb2020 18:11:59.189] [Server thread/INFO] [minecolonies/]: Finished discovering compostables
+[09Feb2020 18:11:59.196] [Server thread/INFO] [minecolonies/]: Finished discovering compostables
+[09Feb2020 18:11:59.199] [Server thread/INFO] [minecolonies/]: Finished discovering lucky oreBlocks
+[09Feb2020 18:11:59.203] [Server thread/INFO] [minecolonies/]: Finished initiating sifter config
+[09Feb2020 18:11:59.207] [Server thread/INFO] [minecolonies/]: Finished discovering food
+[09Feb2020 18:11:59.209] [Server thread/INFO] [minecolonies/]: Finished discovering fuel
+[09Feb2020 18:11:59.274] [Server thread/WARN] [minecolonies/]: World unload
+[09Feb2020 18:11:59.283] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Feb2020 18:11:59.285] [Server thread/WARN] [minecolonies/]: World unload
+[09Feb2020 18:11:59.286] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Feb2020 18:12:02.583] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player LeviXDXD is ce5f737f-3e2f-4996-b90b-4a69df75a121
+[09Feb2020 18:12:04.472] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: LeviXDXD[/192.168.0.1:59299] logged in with entity id 57 at (468.2493138932455, 79.0, -274.57286449983934)
+[09Feb2020 18:12:04.529] [Netty Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@db5368 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[09Feb2020 18:12:04.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LeviXDXD joined the game
+[09Feb2020 18:12:04.540] [Netty Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@55d8af5d (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[09Feb2020 18:12:04.554] [Netty Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.ldtteam.structurize.commands.arguments.MultipleStringArgument@213685c5 (class com.ldtteam.structurize.commands.arguments.MultipleStringArgument) - will not be sent to client!
+[09Feb2020 18:12:04.713] [Server thread/INFO] [structurize/]: New Server UUID 8d6b42bd-53d2-4539-b8c6-440515501828
+[09Feb2020 18:12:05.653] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Keeping entity minecolonies:citizen that already exists with UUID 42d7356f-73bf-4122-9d7f-1478de761d35
+[09Feb2020 18:12:09.395] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: 12
+	at net.minecraftforge.eventbus.ListenerList.getListeners(ListenerList.java:120) ~[eventbus-1.0.0-service.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:251) ~[eventbus-1.0.0-service.jar:?]
+	at net.minecraftforge.fml.network.NetworkInstance.dispatchEvent(NetworkInstance.java:109) ~[?:?]
+	at net.minecraftforge.fml.network.FMLMCRegisterPacketHandler$ChannelList.lambda$updateFrom$0(FMLMCRegisterPacketHandler.java:56) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(Unknown Source) ~[?:1.8.0_241]
+	at java.util.stream.ReferencePipeline$3$1.accept(Unknown Source) ~[?:1.8.0_241]
+	at java.util.stream.ReferencePipeline$2$1.accept(Unknown Source) ~[?:1.8.0_241]
+	at java.util.stream.ReferencePipeline$3$1.accept(Unknown Source) ~[?:1.8.0_241]
+	at java.util.HashMap$KeySpliterator.forEachRemaining(Unknown Source) ~[?:1.8.0_241]
+	at java.util.stream.AbstractPipeline.copyInto(Unknown Source) ~[?:1.8.0_241]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source) ~[?:1.8.0_241]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(Unknown Source) ~[?:1.8.0_241]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(Unknown Source) ~[?:1.8.0_241]
+	at java.util.stream.AbstractPipeline.evaluate(Unknown Source) ~[?:1.8.0_241]
+	at java.util.stream.ReferencePipeline.forEach(Unknown Source) ~[?:1.8.0_241]
+	at net.minecraftforge.fml.network.FMLMCRegisterPacketHandler$ChannelList.updateFrom(FMLMCRegisterPacketHandler.java:56) ~[?:?]
+	at net.minecraftforge.fml.network.FMLMCRegisterPacketHandler.registerListener(FMLMCRegisterPacketHandler.java:92) ~[?:?]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:212) ~[eventbus-1.0.0-service.jar:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:204) ~[eventbus-1.0.0-service.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:258) ~[eventbus-1.0.0-service.jar:?]
+	at net.minecraftforge.fml.network.NetworkInstance.dispatch(NetworkInstance.java:84) ~[?:?]
+	at net.minecraftforge.fml.network.NetworkHooks.lambda$onCustomPayload$0(NetworkHooks.java:74) ~[?:?]
+	at java.util.Optional.map(Unknown Source) ~[?:1.8.0_241]
+	at net.minecraftforge.fml.network.NetworkHooks.onCustomPayload(NetworkHooks.java:74) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147349_a(ServerPlayNetHandler.java:1275) ~[?:?]
+	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:42) ~[?:?]
+	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:12) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) [?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:699) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:693) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:678) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:626) [?:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_241]
+[09Feb2020 18:12:28.059] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:12:28.090] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:12:33.083] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:12:33.162] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:12:33.689] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:12:34.092] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:12:59.940] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:12:59.955] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:13:01.575] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:13:01.575] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:13:02.693] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:13:03.247] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:13:03.248] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:13:03.600] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:13:03.602] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:13:04.287] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:13:04.291] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:13:04.640] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:13:04.641] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:13:33.439] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:13:35.564] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:13:35.624] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:13:37.236] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:13:37.237] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:13:38.535] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:13:39.547] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:13:39.602] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:15:12.390] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:15:12.494] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:15:14.404] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:17:02.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3039ms or 60 ticks behind
+[09Feb2020 18:20:23.035] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:20:26.528] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:20:27.728] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:20:27.773] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:20:28.496] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:20:29.704] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:20:29.706] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:20:29.709] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:20:35.288] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:20:37.328] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:20:39.043] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:20:39.088] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
+[09Feb2020 18:20:39.992] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: null
